@@ -1,4 +1,5 @@
 # Vanilla-CRUD
+https://measifalam-vanilla-crud.netlify.app/
 Vanilla-CRUD is a Create ,Replace ,Update &amp; Delete Operation using HTML , CSS &amp; Javascript. This project can use to store Employee's info.
 This is the ScreenShot of project without the given input:
 ![image](https://user-images.githubusercontent.com/54733354/155875685-70fbc55a-9589-4369-8768-99619cc9e43f.png)
@@ -13,3 +14,4 @@ And one more thing is, if we dont put the employee name within the employee name
 Thanks,<br>
   <i>Asif</i>
 </b>
+https://measifalam-vanilla-crud.netlify.app/
